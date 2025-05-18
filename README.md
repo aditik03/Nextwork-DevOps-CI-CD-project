@@ -5,9 +5,9 @@ DevOps is all about getting teams to build and deploy code faster without sacrif
 
 Before DevOps, development and operations teams worked separately with minimal communication. Developers would build software in their own environment, then hand it off to operations to deploy it to users.
 
-But operations couldn't immediately deploy the code. They needed to carefully test it first, make sure it wouldn't break existing systems, and prepare the infrastructure - all without knowing how the code was written.
+But operations couldn't immediately deploy the code. They needed to carefully test it first, ensure it wouldn't break existing systems, and prepare the infrastructure - all without knowing how the code was written.
 
-This created delays, misunderstandings, and frustration on both sides: developers wanted to ship features quickly, while operations wanted to make sure the code is stable before it's deployed.
+This created delays, misunderstandings, and frustration on both sides: developers wanted to ship features quickly, while operations wanted to ensure the code was stable before it was deployed.
 To address this conflict, DevOps is a set of practices that combines development (writing code) and operations (deploying and maintaining code) to shorten development cycles and deliver reliable software.
 
 If DevOps is a set of practices, what is a DevOps engineer?
